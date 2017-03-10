@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_group.xml"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_radio_button.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_group_radio_button.xml"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fullscreen_layout.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\fullscreen_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_group_divider.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_group_divider.xml"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\about_screen.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\about_screen.xml"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera_overlay.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\camera_overlay.xml"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sample_app_menu_layer.xml",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\layout\\sample_app_menu_layer.xml"
+    }
+]

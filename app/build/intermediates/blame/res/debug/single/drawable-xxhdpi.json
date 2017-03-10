@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\logo.png",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon.png",
+        "source": "C:\\Android\\project\\vuforia-sdk-android-6-2-10\\samples\\VideoPlayback-6-2-10\\app\\src\\main\\res\\drawable-xxhdpi\\icon.png"
+    }
+]
